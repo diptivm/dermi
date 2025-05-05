@@ -1,0 +1,6 @@
+matplotlib
+seaborn
+opencv-python
+kaggle
+kagglehub
+jupytext
